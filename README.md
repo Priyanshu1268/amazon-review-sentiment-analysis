@@ -30,8 +30,11 @@ jupyter notebook
 
 
 
-Dataset is not included because it exceeds GitHub's file size limit.
+## Dataset
 
-Download the dataset and place it in:
+Due to size limitations, the dataset is not included in this repository.  
+You can access and download it using the following link:
 
-data/Reviews.csv
+🔗 Dataset Download: [text](../../Downloads/Reviews.csv/Reviews.csv)
+
+After downloading, place the file in the project directory before running the code.
