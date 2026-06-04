@@ -35,6 +35,6 @@ jupyter notebook
 Due to size limitations, the dataset is not included in this repository.  
 You can access and download it using the following link:
 
-🔗 Dataset Download: [text](../../Downloads/Reviews.csv/Reviews.csv)
+🔗 Dataset Download: [../../Downloads/Reviews.csv/Reviews.csv]
 
 After downloading, place the file in the project directory before running the code.
